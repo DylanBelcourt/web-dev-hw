@@ -1,0 +1,20 @@
+Assignment 2 questions
+
+1. Data is broken down into smaller data bits called packets. It then travels
+until it reaches the intended location. The receiving computer then collects
+the data an re assembles it.
+
+2. IP stands for internet protocol, witch is a format that helps to distinguish
+the difference between connected devices. Using a bit based code your device
+will get an IP address. but working with that many numbers can get confusing.
+that is what the DNS is for. The Domain Name System uses the IP numbers and puts
+a name to it making it easier to interact with.
+
+3. A cookie is a small chunk of data that you is put on a device from a website.
+the cookies are meant to help the website do things like remember certain information
+while browsing.
+
+4. The three parts to a URL are first the protocol, stating how the browser will
+communicate with the server. Then the domain, witch is the unique name that suits
+the intended need. Finally the path, the paths help to navigate through the
+directories of the site.
